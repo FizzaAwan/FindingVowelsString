@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GetVowels
+comment0.text=\r\nReads\ a\ string\ and\ prints\ out\ all\ vowels\ contained\ in\ that\ string.\r\nVowels\ are\ A\ E\ I\ O\ U\ a\ e\ i\ o\ u.\r\nInput\:\ the\ value\ of\ s,\ a\ string\r\nOutput\:\ a\ string\ containing\ all\ the\ vowels\ in\ s,\r\nin\ the\ order\ in\ which\ they\ appear\ in\ s\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
